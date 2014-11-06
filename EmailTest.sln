@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailTest", "EmailTest\EmailTest.csproj", "{B2150C26-AAA9-466E-B3C5-D640E6F06CE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2150C26-AAA9-466E-B3C5-D640E6F06CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2150C26-AAA9-466E-B3C5-D640E6F06CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2150C26-AAA9-466E-B3C5-D640E6F06CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2150C26-AAA9-466E-B3C5-D640E6F06CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
